@@ -59,6 +59,8 @@ Key KPIs explored:
 
 ## 🖥️ Dashboard Overview
 
+![Sales Report Dashboard](Sales%20Report.png)
+
 ### 1️⃣ Year Filters
 Checkbox filter allowing selection of one or multiple years (2018–2021).  
 - **2021 Selected**: all visuals reflect this year.  
